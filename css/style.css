@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation {
+	width: 100%;
+	height: 50px;
+	background-color: #6334e3;
+}
+
+#menu {
+	float: left;
+	width: 62px;
+}
+
+#logo {
+	width: 62px;
+	height: 42px;
+	padding: 4px 2px;
+}
+
+#navigation_links {
+	float: right;
+	padding-right: 8px;
+	height: 100%;	
+}
+
+#navigation_links ul li {
+	display: inline-block;
+	list-style: none;
+	margin-top: 15px;
+}
+
+#navigation_links ul li a {
+	padding: 16px 4px;
+	text-decoration: none;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;	
+}
+
+main {
+	width: 100%;
+	align-items: center;
+	text-align: center;
+}
+.text_main {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	width: 100%;
+	font-weight: 600;
+}
+
+#heading {
+	margin-top: 30px;
+}
+
+#main_h2 {
+	font-size: 22px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	text-align: center;
+	width: 100%;
+	font-weight: 600;
+}
+
+#main_h3 {
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 100%;
+	text-align: center;
+	color: #00c8f8;
+	font-weight: 500;
+}
+
+#p_cont {
+	width: 60%;
+	height: 272px;
+	margin: 30px 22.5px;
+	align-items: center;
+	margin: 12px auto;
+}
+
+#main_p {
+	font-weight: 400;
+	margin-top: 12px;
+	width: 100%;
+	height: 272px;
+	overflow: hidden;
+	text-align: center;
+	font-size: 12px;
+}
+
+#l {
+	color: white;
+}
+
